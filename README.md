@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalbajith&label=Profile%20views&color=0e75b6&style=flat" alt="amalbajith" /> </p>
-
+img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif"
 - 🔭 I’m currently working on **JS**
 
 - 🌱 I’m currently learning **JS**
