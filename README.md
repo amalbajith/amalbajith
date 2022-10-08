@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 <h3 align="center">A passionate frontend developer</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2F&psig=AOvVaw2O-Aa8itIU7bhkKEHPkn65&ust=1665325882617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOioivbs0PoCFQAAAAAdAAAAABAE"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalbajith&label=Profile%20views&color=0e75b6&style=flat" alt="amalbajith" /> </p>
 
 - 🔭 I’m currently working on **JS**
